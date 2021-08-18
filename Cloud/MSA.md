@@ -72,9 +72,9 @@
 - 서비스별로 로그가 생성되기 때문에 중앙 로그 모니터링은 존재하지 않음
 - 각 서비스는 API를 통해 통신하므로 네트워크 통신에 의한 오버헤드가 발생
 
-![MSA%20f3658ace18984f269c9f1e3f6e9ac6a6/Untitled.png](MSA%20f3658ace18984f269c9f1e3f6e9ac6a6/Untitled.png)
+![MSA/Untitled.png](MSA/Untitled.png)
 
-![MSA%20f3658ace18984f269c9f1e3f6e9ac6a6/Untitled%201.png](MSA%20f3658ace18984f269c9f1e3f6e9ac6a6/Untitled%201.png)
+![MSA/Untitled%201.png](MSA/Untitled%201.png)
 
 # 참고 자료
 
